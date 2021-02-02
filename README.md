@@ -8,23 +8,28 @@ The purpose of this analysis was to clean data to create an accurate report of s
 
 * Overall the averages for passing math and reading scores went down for the district after cleaning the data
 
-District Summary Before
+*District Summary Before*
+
 ![District Summary Before](Resources/district_summary_before.png)
 
-District Summary After
+*District Summary After*
+
 ![District Summary After](Resources/district_summary_after.png)
 
 * Thomas High School passing math and reading averages improved 
 
-Thomas High School Before Before
+*Thomas High School Before Before* 
+
 ![District Summary Before](Resources/ths_before.png)
 
-Thomas High School After
+*Thomas High School After*
+
 ![District Summary After](Resources/ths_after.png)
 
 * After test score data of Thomas High Schools 9th grade class, there test scores ranked in the top 5 school in the district
 
-Top 5 Schools in the District 
+*Top 5 Schools in the District* 
+
 ![District Summary After](Resources/top_5.png)
 
 * Removing the test results for Thomas High School’s 9th grade affects the 9th grade metrics in the following ways: 
@@ -35,11 +40,14 @@ Top 5 Schools in the District
 
 	* The results for Thomas High School, post adjustment,  is comparable to Griffin High School,  Wilson High School, and Wright High School in terms of The % Overall Passing and Size
 
-  Scores by School Including Spending and Size
-   ![Scores by School Size](Resources/score_size.png)
+  *Scores by School Including Spending and Size*
+  
+  ![Scores by School Size](Resources/score_size.png)
 
   * Because there are significantly more district school students, removing the 9th Grade from Thomas High School likely has very little effect
-   Scores by School Type
+   
+   *Scores by School Type*
+   
    ![Scores by School Typ](Resources/school_type.png)
 
 ## Summary 
